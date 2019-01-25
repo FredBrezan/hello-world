@@ -2,4 +2,4 @@
 
 Hi!
 
-Welcome to my personal GitHib space.
+Welcome to my personal GitHub space.
